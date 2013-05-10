@@ -1,0 +1,256 @@
+
+#######################
+###20130504 02:21:44###
+#######################
+  [ 2013-05-04T02:21:44+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_include() should not be called statically
+  [ 2013-05-04T02:21:44+00:00 ]    E_ERROR:   Using $this when not in object context
+
+#######################
+###20130504 02:24:45###
+#######################
+  [ 2013-05-04T02:24:45+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_include() should not be called statically
+  [ 2013-05-04T02:24:45+00:00 ]    E_STRICT:   Non-static method Lib_Taglib::parseXml() should not be called statically
+  [ 2013-05-04T02:24:45+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_foreach() should not be called statically
+  [ 2013-05-04T02:24:45+00:00 ]    E_ERROR:   Using $this when not in object context
+
+#######################
+###20130504 02:24:46###
+#######################
+  [ 2013-05-04T02:24:46+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_include() should not be called statically
+  [ 2013-05-04T02:24:46+00:00 ]    E_STRICT:   Non-static method Lib_Taglib::parseXml() should not be called statically
+  [ 2013-05-04T02:24:46+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_foreach() should not be called statically
+  [ 2013-05-04T02:24:46+00:00 ]    E_ERROR:   Using $this when not in object context
+
+#######################
+###20130504 02:24:56###
+#######################
+  [ 2013-05-04T02:24:56+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_include() should not be called statically
+  [ 2013-05-04T02:24:56+00:00 ]    E_STRICT:   Non-static method Lib_Taglib::parseXml() should not be called statically
+  [ 2013-05-04T02:24:56+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_foreach() should not be called statically
+  [ 2013-05-04T02:24:56+00:00 ]    E_STRICT:   Non-static method Lib_Taglib::parseXml() should not be called statically
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : AttValue: &quot; or ' expected
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : attributes construct error
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:24:56+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+
+#######################
+###20130504 02:25:30###
+#######################
+  [ 2013-05-04T02:25:30+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_include() should not be called statically
+  [ 2013-05-04T02:25:30+00:00 ]    E_STRICT:   Non-static method Lib_Taglib::parseXml() should not be called statically
+  [ 2013-05-04T02:25:30+00:00 ]    E_STRICT:   call_user_func() expects parameter 1 to be a valid callback, non-static method Lib_Taglib::_foreach() should not be called statically
+  [ 2013-05-04T02:25:30+00:00 ]    E_STRICT:   Non-static method Lib_Taglib::parseXml() should not be called statically
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : AttValue: &quot; or ' expected
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : attributes construct error
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:25:30+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+
+#######################
+###20130504 02:31:49###
+#######################
+  [ 2013-05-04T02:31:49+00:00 ]    E_ERROR:   Maximum function nesting level of '100' reached, aborting!
+
+#######################
+###20130504 02:33:03###
+#######################
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : AttValue: &quot; or ' expected
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : attributes construct error
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:33:03+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+
+#######################
+###20130504 02:34:22###
+#######################
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : AttValue: &quot; or ' expected
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : attributes construct error
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag from=$array item=li key=$name /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T02:34:22+00:00 ]    UNKNOW:   simplexml_load_string():                ^
+
+#######################
+###20130504 02:40:23###
+#######################
+  [ 2013-05-04T02:40:23+00:00 ]    E_PARSE:   syntax error, unexpected end of file
+
+#######################
+###20130504 02:43:23###
+#######################
+  [ 2013-05-04T02:43:23+00:00 ]    E_PARSE:   syntax error, unexpected end of file
+
+#######################
+###20130504 02:44:46###
+#######################
+  [ 2013-05-04T02:44:46+00:00 ]   /\{\/foreach\s([^\}]*)\}/eis
+  [ 2013-05-04T02:44:46+00:00 ]    E_PARSE:   syntax error, unexpected end of file
+
+#######################
+###20130504 02:45:29###
+#######################
+  [ 2013-05-04T02:45:29+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:45:29+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:46:17###
+#######################
+  [ 2013-05-04T02:46:17+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:46:17+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:47:22###
+#######################
+  [ 2013-05-04T02:47:22+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:47:22+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:48:50###
+#######################
+  [ 2013-05-04T02:48:50+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:48:50+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:50:01###
+#######################
+  [ 2013-05-04T02:50:01+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:50:01+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:52:37###
+#######################
+  [ 2013-05-04T02:52:37+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:52:37+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:53:07###
+#######################
+  [ 2013-05-04T02:53:07+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:53:07+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:56:23###
+#######################
+  [ 2013-05-04T02:56:23+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:56:23+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:57:02###
+#######################
+  [ 2013-05-04T02:57:02+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:57:02+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 02:58:32###
+#######################
+  [ 2013-05-04T02:58:32+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T02:58:32+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 03:00:57###
+#######################
+  [ 2013-05-04T03:00:57+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T03:00:57+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 03:19:10###
+#######################
+  [ 2013-05-04T03:03:28+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T03:04:16+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 03:19:20###
+#######################
+  [ 2013-05-04T03:19:20+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T03:19:20+00:00 ]    E_PARSE:   syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$'
+
+#######################
+###20130504 03:20:13###
+#######################
+  [ 2013-05-04T03:20:13+00:00 ]    UNKNOW:   array_change_key_case() expects parameter 1 to be array, null given
+  [ 2013-05-04T03:20:13+00:00 ]    E_PARSE:   syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+
+#######################
+###20130504 03:22:36###
+#######################
+  [ 2013-05-04T03:22:36+00:00 ]    E_PARSE:   syntax error, unexpected 'public' (T_PUBLIC)
+
+#######################
+###20130504 09:50:11###
+#######################
+  [ 2013-05-04T09:50:11+00:00 ]    E_ERROR:   Call to undefined method Lib_Taglib::parseXml()
+
+#######################
+###20130504 10:32:56###
+#######################
+  [ 2013-05-04T10:32:56+00:00 ]    UNKNOW:   Missing argument 2 for Lib_Taglib::_if()
+  [ 2013-05-04T10:32:56+00:00 ]    E_PARSE:   syntax error, unexpected ')'
+
+#######################
+###20130504 10:50:21###
+#######################
+  [ 2013-05-04T10:50:21+00:00 ]    E_PARSE:   syntax error, unexpected 'endif' (T_ENDIF)
+
+#######################
+###20130504 10:50:50###
+#######################
+  [ 2013-05-04T10:50:50+00:00 ]    E_PARSE:   syntax error, unexpected 'endif' (T_ENDIF)
+
+#######################
+###20130504 10:51:01###
+#######################
+  [ 2013-05-04T10:51:01+00:00 ]    E_PARSE:   syntax error, unexpected 'endif' (T_ENDIF)
+
+#######################
+###20130504 10:51:02###
+#######################
+  [ 2013-05-04T10:51:02+00:00 ]    E_PARSE:   syntax error, unexpected 'endif' (T_ENDIF)
+
+#######################
+###20130504 10:51:11###
+#######################
+  [ 2013-05-04T10:51:11+00:00 ]    E_PARSE:   syntax error, unexpected 'endif' (T_ENDIF)
+
+#######################
+###20130504 10:51:12###
+#######################
+  [ 2013-05-04T10:51:12+00:00 ]    E_PARSE:   syntax error, unexpected 'endif' (T_ENDIF)
+
+#######################
+###20130504 11:20:30###
+#######################
+  [ 2013-05-04T11:20:30+00:00 ]    E_ERROR:   Call to undefined method Lib_Taglib::parseXmlAttr()
+
+#######################
+###20130504 11:21:12###
+#######################
+  [ 2013-05-04T11:21:12+00:00 ]    E_ERROR:   Call to undefined method Lib_Taglib::parseXmlAttr()
+
+#######################
+###20130504 11:21:44###
+#######################
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : error parsing attribute name
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag ($eee.swqs &gt; 1) /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string():           ^
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : attributes construct error
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag ($eee.swqs &gt; 1) /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string():           ^
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string(): &lt;tpl&gt;&lt;tag ($eee.swqs &gt; 1) /&gt;&lt;/tpl&gt;
+  [ 2013-05-04T11:21:44+00:00 ]    UNKNOW:   simplexml_load_string():           ^

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{@$eee|default="2"}</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        {@load src='__JS__/ajax.base.js'/}
+    </head>
+    <body>
+
+        <div>
+          {@~echo(url(__CLASS__,cookie))}
+            <hr>{HTML_DIR}
+            {@$eee}22222{@$eee.dqw}</div>11111111111111111111111111111
+        <div>{@foreach from="array" item="li" key="name"} 
+            {@$name}=> {$li.key}
+            
+            {@/foreach}
+           {@~dump($_COOKIE)}
+             <a href="{@~echo(url(__CLASS__,$url))}"  >cooki3333e</a>
+           
+            {@~dump($array)}
+        </div>
+        __CLASS__
+        __ACTION__
+        
+        {@~dump(date('Y/m/d h:i:s'))}
+        {@if ($eee.swqs < 1 && $conf.dw ==1)}
+       
+        1111122
+        {@elseif ($eee.swqs > 1)/}
+        22
+        {@else/}2    
+        22222
+        {@/if}
+        __SELF__
+        <script>
+            function rel(state, text) {
+                alert(text);
+                if (state === 200) {
+                    
+                }
+            }
+            ajax.get('/index.php/sa/sad', function(state, text){
+                 
+            });
+        </script>
+        {@if ($eee.swq2s.qw1qd < 1 && $conf.wqd ==1)}
+        <br><br>
+        {@/if}
+        <br>
+        {@$eeesw|default='2'}
+
+
+
+        {@$Self.SERVER.script_name}
+
+
+        <br><br>
+
+       <!-- <button onclick="http()">ddd</button>-->
+    </body>
+
+</html>

@@ -1,0 +1,87 @@
+
+#######################
+###20130509 16:47:54###
+#######################
+  [ 2013-05-09T16:47:54+08:00 ]    UNKNOW:   include(D:\Program Files\Git\Sourse\farmCode\temp\e8c93379e1a1271014df2b58f6d545e4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory
+  [ 2013-05-09T16:47:54+08:00 ]    UNKNOW:   include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\Program Files\Git\Sourse\farmCode\temp\e8c93379e1a1271014df2b58f6d545e4.php' for inclusion (include_path='.;C:\php\pear')
+
+#######################
+###20130509 16:48:07###
+#######################
+  [ 2013-05-09T16:48:07+08:00 ]   1
+  [ 2013-05-09T16:48:07+08:00 ]    UNKNOW:   include(D:\Program Files\Git\Sourse\farmCode\temp\e8c93379e1a1271014df2b58f6d545e4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory
+  [ 2013-05-09T16:48:07+08:00 ]    UNKNOW:   include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\Program Files\Git\Sourse\farmCode\temp\e8c93379e1a1271014df2b58f6d545e4.php' for inclusion (include_path='.;C:\php\pear')
+
+#######################
+###20130509 16:48:13###
+#######################
+  [ 2013-05-09T16:48:13+08:00 ]    UNKNOW:   include(D:\Program Files\Git\Sourse\farmCode\temp\e8c93379e1a1271014df2b58f6d545e4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory
+  [ 2013-05-09T16:48:13+08:00 ]    UNKNOW:   include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\Program Files\Git\Sourse\farmCode\temp\e8c93379e1a1271014df2b58f6d545e4.php' for inclusion (include_path='.;C:\php\pear')
+
+#######################
+###20130509 16:53:07###
+#######################
+  [ 2013-05-09T16:53:07+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 23
+  [ 2013-05-09T16:53:07+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 15
+  [ 2013-05-09T16:53:07+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 10
+  [ 2013-05-09T16:53:07+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 22
+  [ 2013-05-09T16:53:07+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 20
+
+#######################
+###20130509 16:53:26###
+#######################
+  [ 2013-05-09T16:53:26+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 23
+  [ 2013-05-09T16:53:26+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 15
+  [ 2013-05-09T16:53:26+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 10
+  [ 2013-05-09T16:53:26+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 22
+  [ 2013-05-09T16:53:26+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 20
+
+#######################
+###20130509 16:53:43###
+#######################
+  [ 2013-05-09T16:53:43+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 23
+  [ 2013-05-09T16:53:43+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 15
+  [ 2013-05-09T16:53:43+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 10
+  [ 2013-05-09T16:53:43+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 22
+  [ 2013-05-09T16:53:43+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 20
+
+#######################
+###20130509 16:54:24###
+#######################
+  [ 2013-05-09T16:54:24+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 23
+  [ 2013-05-09T16:54:24+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 15
+  [ 2013-05-09T16:54:24+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 10
+  [ 2013-05-09T16:54:24+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 22
+  [ 2013-05-09T16:54:24+08:00 ]    UNKNOW:   preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing terminating ] for character class at offset 20
+
+#######################
+###20130509 16:55:22###
+#######################
+  [ 2013-05-09T16:55:22+08:00 ]   www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:55:22+08:00 ]   www.farmcode.com/index.php/Home/cookie
+
+#######################
+###20130509 16:55:56###
+#######################
+  [ 2013-05-09T16:55:56+08:00 ]   www.farmcode.com/index.php/Home/cookie
+
+#######################
+###20130509 16:56:08###
+#######################
+  [ 2013-05-09T16:56:08+08:00 ]   www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:56:08+08:00 ]   www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:56:08+08:00 ]   www.farmcode.com/index.php/Home/cookie
+
+#######################
+###20130509 16:56:37###
+#######################
+  [ 2013-05-09T16:56:37+08:00 ]   http://www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:56:37+08:00 ]   http://www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:56:37+08:00 ]   http://www.farmcode.com/index.php/Home/cookie
+
+#######################
+###20130509 16:56:39###
+#######################
+  [ 2013-05-09T16:56:39+08:00 ]   http://www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:56:39+08:00 ]   http://www.farmcode.com/index.php/Home/cookie
+  [ 2013-05-09T16:56:39+08:00 ]   http://www.farmcode.com/index.php/Home/cookie

@@ -1,0 +1,12 @@
+
+#######################
+###20130506 09:09:14###
+#######################
+  [ 2013-05-06T09:09:14+00:00 ]    E_ERROR:   Call to undefined function preg_ireplace()
+
+#######################
+###20130506 09:27:08###
+#######################
+  [ 2013-05-06T09:27:08+00:00 ]    E_PARSE:   syntax error, unexpected '<'
+  [ 2013-05-06T09:27:08+00:00 ]    UNKNOW:   include() [<a href='function.include'>function.include</a>]: Filename cannot be empty
+  [ 2013-05-06T09:27:08+00:00 ]    UNKNOW:   include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.;C:\php\pear')
